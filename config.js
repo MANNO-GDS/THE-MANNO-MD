@@ -27,8 +27,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['917705895455'] 
-global.prems = ['917705895455']
+global.mods = ['923455116994'] 
+global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -118,22 +118,22 @@ global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/917705895455' //contact
+global.developer = 'https://wa.me/message/923455116994' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '「 💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌」'
-global.packname = ' 「𝙈𝘼𝙉𝙉𝙊」 ♥️' 
-global.author = '💭' 
+global.princebot = '「 ♥️˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗𝟗𝟒˼♥️ 」'
+global.packname = '「𝗦𝝜𝗔𝗡𝗜」 ♥️' 
+gobal.author = '💭' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM'
 global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
-global.Princesc = 'https://github.com/MANNO-GDS/THE-MANNO-MD' 
+global.Princesc = 'https://github.com/Dangerous5677/SHANI-MD' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://telegra.ph/file/a1e3c864edf9d114e32a2.jpg'
+global.Princelog = 'https://i.imgur.com/Mbnk3am.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
