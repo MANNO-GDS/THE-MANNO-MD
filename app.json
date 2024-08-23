@@ -1,8 +1,8 @@
 {
-  "name": "SHANIMD",
+  "name": "Shani MD",
   "description": "SHANI-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/Dangerous5677/SHANI-MD",
+  "repository": "https://github.com/SHANI-GDS/SHANI-MD",
   
   "stack": "container",
   "env": {
