@@ -16,7 +16,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 	conn.sendMessage(m.chat, { document: { url: res.downloadUrl }, fileName: res.fileName, mimetype: res.mimetype }, { quoted: m })
 	m.react(done)
    } catch {
-	m.reply('𝙀𝙍𝙍𝙊𝙍: 𝘾𝙃𝙀𝙆 𝙏𝙃𝙀 𝙇𝙄𝙉𝙆 𝙊𝙍 𝙏𝙍𝙔 𝘼𝙉𝙊𝙏𝙃𝙀𝙍 𝙇𝙄𝙉𝙆') 
+	m.reply('⛔𝙀𝙍𝙍𝙊𝙍: 𝘾𝙃𝙀𝙆 𝙏𝙃𝙀 𝙇𝙄𝙉𝙆 𝙊𝙍 𝙏𝙍𝙔 𝘼𝙉𝙊𝙏𝙃𝙀𝙍 𝙇𝙄𝙉𝙆') 
   }
 }
 handler.help = ['gdrive']
