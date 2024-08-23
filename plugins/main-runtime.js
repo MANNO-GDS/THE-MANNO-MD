@@ -1,7 +1,7 @@
 import displayLoadingScreen from '../lib/loading.js'
 
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-let pp = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
+let pp = 'https://i.imgur.com/Mbnk3am.jpeg'
 await displayLoadingScreen(conn, m.chat)
 	let _muptime
     if (process.send) {
@@ -12,7 +12,7 @@ await displayLoadingScreen(conn, m.chat)
       }) * 1000
     }
     let muptime = clockString(_muptime)
-    let str = `*あMANNO RUNTIMEあ\n\n${muptime}*`
+    let str = `*あDHANI RUNTIMEあ*\n\n*${muptime}*`
     conn.sendMessage(m.chat, {
       text: str,
       contextInfo: {
@@ -26,10 +26,10 @@ await displayLoadingScreen(conn, m.chat)
             },
       forwardingScore: 999,
       externalAdReply: {
-      title: "💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌",
+      title: "♥️ 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗 ♥️",
       body: "R U N T I M E",
       thumbnailUrl: pp,
-      sourceUrl: 'https://telegra.ph/file/a1e3c864edf9d114e32a2.jpg',
+      sourceUrl: 'https://i.imgur.com/Mbnk3am.jpeg',
       mediaType: 1,
       renderLargerThumbnail: true
       }}})
