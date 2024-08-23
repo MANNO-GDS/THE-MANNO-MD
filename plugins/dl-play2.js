@@ -31,7 +31,7 @@ const handler = async (m, {conn, command, args, text, usedPrefix}) => {
   ⏰ ${mssg.duration}: ${secondString(yt_play[0].duration.seconds)}
   🎴 ${mssg.views}: ${yt_play[0].views}
   🔗 ${mssg.link}: ${yt_play[0].url}
-*•┈•✦❀𝙈𝘼𝙉𝙉𝙊-𝘽𝙊𝙏❀✦•┈•*`;
+*•┈•✦❀♥️˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗 ♥️❀✦•┈•*`;
     conn.sendMessage(m.chat, {image: {url: yt_play[0].thumbnail}, caption: texto1}, {quoted: m});
     if (command == 'play') {
     try {
