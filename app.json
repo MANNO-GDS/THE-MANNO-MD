@@ -1,5 +1,5 @@
 {
-  "name": "Shani MD",
+  "name": "SHANI-MD",
   "description": "SHANI-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "repository": "https://github.com/SHANI-GDS/SHANI-MD",
@@ -49,7 +49,12 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "💌--------------------♥️˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗𝟗𝟒˼♥️---------------------💌"
+      "value": "💌--------------------♥️ 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗 ♥️----------------------💌"
+      },
+    "ANTICALL_MSG": {
+      "description": "Put your message here for anticall feature",
+      "required": true,
+      "value": "YOU HAVE BEEN BLOCKED FOR FOR CALLING THE BOT TO MANY TIMES\n\nTO UNBLOCK YOURSELF CONTACT THE OWNER OF THIS BOT"
        },
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
