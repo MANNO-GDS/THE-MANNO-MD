@@ -13,7 +13,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
   conn.GURUPLAY = conn.GURUPLAY ? conn.GURUPLAY : {}
   await conn.reply(m.chat, wait, m)
   const result = await searchAndDownloadMusic(text)
-  const infoText = `🎶💌 *•┈┈••✦❀𝙈𝘼𝙉𝙉𝙊-𝙋𝙇𝙄𝙔𝙀𝙍❀✦••┈┈•* 💌🎶\n\n\n [ 🌍 𝙍𝙀𝙋𝙇𝙔 𝙉𝙐𝙈𝘽𝙀𝙍 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 ]. \n\n`
+  const infoText = `🎶*•┈••✦❀𝗦𝝜𝗔𝗡𝗜-𝙋𝙇𝙄𝙔𝙀𝙍❀✦••┈┈•*🎶\n\n\n [ 🌍 𝙍𝙀𝙋𝙇𝙔 𝙉𝙐𝙈𝘽𝙀𝙍 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 ]. \n\n`
 
   const orderedLinks = result.allLinks.map((link, index) => {
     const sectionNumber = index + 1
