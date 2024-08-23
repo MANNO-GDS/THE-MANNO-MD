@@ -2,7 +2,7 @@ import axios from "axios";
 import cheerio from "cheerio";
 
 let handler = async (m, {text, usedPrefix, conn}) => {
-if (!text) return m.reply('${mssg.example}: .' + usedPrefix + ' 𝙋𝘼𝙎𝙏𝙀 𝙏𝙃𝙀 𝙇𝙄𝙉𝙆 𝙃𝙀𝙍𝙀...');
+if (!text) return m.reply('${mssg.example}: .' + usedPrefix + '📁𝙋𝘼𝙎𝙏𝙀 𝙏𝙃𝙀 𝙇𝙄𝙉𝙆 𝙃𝙀𝙍𝙀...');
 try {
 m.reply(wait)
 let { media, status, isSlide, title } = await tiktok(text);
