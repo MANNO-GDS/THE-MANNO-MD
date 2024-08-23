@@ -11,7 +11,7 @@ let handler = async (m, { conn, usedPrefix, text }) => {
       await delay(1500)
       await conn.copyNForward(id, content, true)
     }
-   //m.reply('✅ 𝙎𝙀 𝙏𝙍𝘼𝙉𝙎𝙈𝙄𝙏𝙄𝙊 𝘼 𝙏𝙊𝘿𝙊𝙎 𝙇𝙊𝙎 𝙎𝙐𝘽-𝘽𝙊𝙏𝙎')
+   //m.reply('📁𝙎𝙀 𝙏𝙍𝘼𝙉𝙎𝙈𝙄𝙏𝙄𝙊 𝘼 𝙏𝙊𝘿𝙊𝙎 𝙇𝙊𝙎 𝙎𝙐𝘽-𝘽𝙊𝙏𝙎')
     
 } 
 handler.help = ['txbot']
