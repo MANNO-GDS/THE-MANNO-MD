@@ -11,14 +11,14 @@
 
 
 <p align="center">
-<a href="https://github.com/Dangerous5677/SHANI-MD"><img title="Author" src="https://img.shields.io/badge/𝑺𝑯𝑨𝑵𝑰 𝑴𝑫 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD"><img title="Author" src="https://img.shields.io/badge/𝑺𝑯𝑨𝑵𝑰 𝑴𝑫 -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/Dangerous5677?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Dangerous5677?label=Followers&style=social"></a>
-<a href="https://github.com/Dangerous5677/SHANI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dangerous5677/SHANI-MD?&style=social"></a>
-<a href="https://github.com/Dangerous5677/SHANI-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dangerous5677/SHANI-MD?style=social"></a>
-<a href="https://github.com/Dangerous5677/SHANI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dangerous5677/SHANI-MD?label=Watching&style=social"></a>
+<a href="https://github.com/SHANI-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SHANI-GDS?label=Followers&style=social"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SHANI-GDS/SHANI-MD?&style=social"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/SHANI-GDS/SHANI-MD?style=social"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHANI-GDS/SHANI-MD?label=Watching&style=social"></a>
 </p>
 
 
@@ -50,7 +50,7 @@
 
 
 ### 𝙃𝙀𝙍𝙊𝙆𝙐 𝘿𝙀𝙋𝙇𝙊𝙔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MANNO-GDS/THE-MANNO-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANI-GDS/SHANI-MD) 
  
  
 
