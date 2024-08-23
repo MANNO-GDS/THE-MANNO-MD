@@ -56,8 +56,8 @@ let infobt = `
 ▢ *${chats.length}* 𝙏𝙊𝙏𝘼𝙇 𝘾𝙃𝘼𝙏𝙎 
 
 *≡ 𝙊𝙒𝙉𝙒𝙍🧑‍💻*
- 𝙈𝘼𝙉𝙉𝙊-𝙂𝘿𝙎
-▢  *https://github.com/MANNO-GDS/THE-MANNO-MD*
+ 𝗦𝝜𝗔𝗡𝗜-𝙂𝘿𝙎
+▢  *https://github.com/SHANI-GDS/SHANI-MD*
   
 ▢ 𝙈𝙔 𝘽𝙊𝙏 𝙂𝘾 𝙇𝙄𝙉𝙆 .
 ▢  *https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM*
