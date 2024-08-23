@@ -63,7 +63,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
     } else {
       enviando = false;
       await conn.sendMessage(m.chat, { video: buff_vid, caption: `💌${mssg.title}: ${title}\n💌${mssg.size}: ${roundedFileSizeInMB} MB`, fileName: title + '.mp4', mimetype: 'video/mp4' }, { quoted: m });
-      await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿`, edit: key }, { quoted: m });
+      await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`, edit: key }, { quoted: m });
     }
   } catch (error) {
     try {
@@ -83,7 +83,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
       } else {
         enviando = false;
         await conn.sendMessage(m.chat, { video: buff_vid, caption: `💌${mssg.title}: ${title}\n💌${mssg.size}: ${roundedFileSizeInMB} MB`, fileName: title + '.mp4', mimetype: 'video/mp4' }, { quoted: m });
-        await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿`, edit: key }, { quoted: m });
+        await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`, edit: key }, { quoted: m });
       }
     } catch (error) {
       try {
@@ -103,11 +103,11 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
         } else {
           enviando = false;
           await conn.sendMessage(m.chat, { video: buff_vid, caption: `❣️${mssg.title}: ${title}\n❣️${mssg.size}: ${roundedFileSizeInMB} MB`, fileName: title + '.mp4', mimetype: 'video/mp4' }, { quoted: m });
-          await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿`, edit: key }, { quoted: m });
+          await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`, edit: key }, { quoted: m });
         }
       } catch (error) {
         enviando = false;
-        await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿`, edit: key }, { quoted: m });
+        await conn.sendMessage(m.chat, { text: `📥 𝙂𝙍𝘼𝙉𝙏𝙀𝘿-𝘽𝙔-𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`, edit: key }, { quoted: m });
         throw `⭕Couldnt download your video`;
       }
     }
