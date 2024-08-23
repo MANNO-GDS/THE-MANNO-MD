@@ -1,15 +1,15 @@
 {
-  "name": "THE-MANNO-MD",
-  "description": "THE-MANNO-MD A SUPER WHATSAPP USER BOT",
+  "name": "SHANIMD",
+  "description": "SHANI-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/MANNO-GDS/THE-MANNO-MD",
+  "repository": "https://github.com/Dangerous5677/SHANI-MD",
   
   "stack": "container",
   "env": {
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "917705895455;MANNO-BLOUCH"
+      "value": "923455116994;˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗𝟗𝟒˼"
       },
      "MODE": {
       "description": "mode public or private",
@@ -39,7 +39,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌"
+      "value": "♥️˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗𝟗𝟒˼♥️"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -49,7 +49,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "💌--------------------𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿----------------------💌"
+      "value": "💌--------------------♥️˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗𝟗𝟒˼♥️---------------------💌"
        },
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
