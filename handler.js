@@ -514,7 +514,7 @@ if (settingsREAD.autoread2) await this.readMessages([m.key])
 
 if (typeof process.env.AutoReaction === 'undefined' || process.env.AutoReaction.toLowerCase() === 'false') return; 
 if (m.text.match(/(prince|a|e|o|u|i|ا|م|dad|gds|oso|love|mente|pero|tion|age|sweet|kiss|cute|ate|and|but|ify)/gi)) {
-let emot = pickRandom(["♥️", "💞", "💖", "💓", "❤️", "🧡", "💛", "💚", "💙", "💜", "🖤", "🤍", "💟", "♥️", "🌸", "🖤", "🤍", "🤎", "💛", "💚", "💙", "💜", "💟", "💓", "🌼", "💝"])
+let emot = pickRandom(["♥️", "💖", "💓", "❤️", "🧡", "💛", "💚", "💙", "💜", "🖤", "🤍", "💟", "♥️", "🌸", "🖤", "🤍", "🤎", "💛", "💚", "💙", "💜", "💟", "💓", "🌼", "💝"])
 this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
 function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
 }}
