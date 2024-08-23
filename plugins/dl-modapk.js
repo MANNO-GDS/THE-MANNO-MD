@@ -19,8 +19,8 @@ let handler = async (m, { conn, command, usedPrefix, text }) => {
 
         let sections = [
             {
-                title: '𝙈𝘼𝙉𝙉𝙊-𝙈𝘿',
-                highlight_label: '💌 𝙈-𝙈𝘿💌',
+                title: '𝗦𝝜𝗔𝗡𝗜-𝗠𝗗',
+                highlight_label: '♥️˻𝗦-𝗠𝗗♥️',
                 rows: [{
                     header: '👇🏻𝗙𝗢𝗥 𝗕𝗢𝗧 𝗠𝗘𝗡𝗨 𝗦𝗘𝗟𝗘𝗖𝗧 𝗧𝗛𝗜𝗦',
                     title: "𝗠𝗘𝗡𝗨",
@@ -60,10 +60,10 @@ let handler = async (m, { conn, command, usedPrefix, text }) => {
                             text: "𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗕𝗨𝗧𝗧𝗢𝗡 𝗕𝗘𝗟𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗬𝗢𝗨𝗥 𝗔𝗣𝗞 "
                         }),
                         footer: proto.Message.InteractiveMessage.Footer.create({
-                            text: '💌 𝙈-𝙈𝘿💌'
+                            text: '♥️˻𝗦-𝗠𝗗♥️'
                         }),
                         header: proto.Message.InteractiveMessage.Header.create({
-                            subtitle: '💌 𝙈-𝙈𝘿💌',
+                            subtitle: '♥️˻𝗦-𝗠𝗗♥️',
                             hasMediaAttachment: false
                         }),
                         nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
