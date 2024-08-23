@@ -1,28 +1,28 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=30&pause=998&color=skyred&background=white&right=true&random=true&width=465&lines=HELLO+EVREYONE👋🏻;+WELCOME+TO+THE+MANNO+MD💭🌍;)
+![SHANI-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=30&pause=998&color=skyred&background=white&right=true&random=true&width=465&lines=HELLO+EVREYONE👋🏻;+WELCOME+TO+SHANI+MD💭🌍;)
   
  
  <p align="center">  
   <a href="">
-    <img alt="MANNO" width="600" height="350" src="https://telegra.ph/file/d52a552a0b817753754e8.jpg">
+    <img alt="SHANI" width="600" height="350" src="https://i.imgur.com/Mbnk3am.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/MANNO-GDS/THE-MANNO-MD"><img title="Author" src="https://img.shields.io/badge/𝑴𝑨𝑵𝑵𝑶 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Dangerous5677/SHANI-MD"><img title="Author" src="https://img.shields.io/badge/𝑺𝑯𝑨𝑵𝑰 𝑴𝑫 -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/MANNO-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MANNO-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/MANNO-GDS/THE-MANNO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MANNO-GDS/THE-MANNO-MD?&style=social"></a>
-<a href="https://github.com/MANNO-GDS/THE-MANNO-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MANNO-GDS/THE-MANNO-MD?style=social"></a>
-<a href="https://github.com/MANNO-GDS/THE-MANNO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MANNO-GDS/THE-MANNO-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Dangerous5677?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Dangerous5677?label=Followers&style=social"></a>
+<a href="https://github.com/Dangerous5677/SHANI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dangerous5677/SHANI-MD?&style=social"></a>
+<a href="https://github.com/Dangerous5677/SHANI-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dangerous5677/SHANI-MD?style=social"></a>
+<a href="https://github.com/Dangerous5677/SHANI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dangerous5677/SHANI-MD?label=Watching&style=social"></a>
 </p>
 
 
- <h1 align="center">│✫ - 「💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌」 - ✫│</h1>
+ <h1 align="center">│✫ - 「💌 ˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗𝟗𝟒˼ 💌」 - ✫│</h1>
 
 
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
@@ -79,7 +79,7 @@
 ### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/MANNO-GDS/THE-MANNO-MD/blob/main/LICENSE)
 
  
-### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙈𝘼𝙉𝙉𝙊 𝘽𝙊𝙏`]
+### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 ˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`]
 #### 🌐 Arabic = ar 
 #### 🌐 Urdu = ur
 #### 🌐 English Global = en
@@ -88,7 +88,7 @@
 #### 🌐 Spanish = es
 
 
-### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 ]
+### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊 ]
 
 | <a href="https://github.com/MANNO-GDS/THE-MANNO-MD"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=110 height=110></a>
 |-----|
