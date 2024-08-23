@@ -12,7 +12,7 @@ const handler = async (m, {conn, args}) => {
     const dl_url = await yt.video[q].download();
     const ttl = await yt.title;
     const size = await yt.video[q].fileSizeH;
-    const cap = `*◉╭━⊱⌈𝙔𝙊𝙐𝙏𝙐𝘽𝙀_𝘿𝙇⌋⊱━╮◉*\n🎉${mssg.title}: ${ttl}\n🌐${mssg.size}: ${size}`.trim();
+    const cap = `*◉╭━⊱⌈𝙔𝙊𝙐𝙏𝙐𝘽𝙀_𝘿𝙇⌋⊱━╮◉*\n🎉${mssg.title}: ${ttl}\n🌍${mssg.size}: ${size}`.trim();
     await await conn.sendMessage(m.chat, {document: {url: dl_url}, caption: cap, mimetype: 'video/mp4', fileName: ttl + `.mp4`}, {quoted: m});
   } catch {
     m.react(done)
