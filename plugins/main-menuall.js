@@ -493,7 +493,7 @@ break;
 ⎪⌲🔖🇵🇰 _${usedPrefix}tinyurl/shorturl_
 ⎪⌲🔖🇵🇰 _${usedPrefix}readvo_
 ⎪⌲🔖🇵🇰 _${usedPrefix}true_
-┗━━━━━━━ʕ•🧬•ʔ━━━━━━┛`; // 
+┗━━━━━━━ʕ•♦️•ʔ━━━━━━┛`; // 
           break;
           case 'nsfwmenu':
           lkr = `use command ${usedPrefix}nsfw`; // 
