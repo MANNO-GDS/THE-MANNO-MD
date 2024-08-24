@@ -50,7 +50,7 @@
 
 
 ### 𝙃𝙀𝙍𝙊𝙆𝙐 𝘿𝙀𝙋𝙇𝙊𝙔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANI-GDS/SHANI-MD) 
+[https://dashboard.heroku.com..com/new?button-url=https%3A%2F%2Fguru-bot-deploy.vercel.app%2F&template=https%3A%2F%2Fgithub.com%2FSHANI-GDS/SHANI-MD) 
  
  
 
