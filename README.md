@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="https://github.com/SHANI-GDS/SHANI-MD"><img title="Author" src="https://img.shields.io/badge/𝑺𝑯𝑨𝑵𝑰 𝑴𝑫 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD"><img title="Author" src="https://img.shields.io/badge/𝗦𝝜𝗔𝗡𝗜-𝗠𝗗 -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
@@ -50,22 +50,22 @@
 
 
 ### 𝙃𝙀𝙍𝙊𝙆𝙐 𝘿𝙀𝙋𝙇𝙊𝙔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANI-GDS/SHANIMD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANI-GDS/SHANI-MD) 
  
  
 
 ### 𝙍𝙀𝙋𝙇𝙄𝙏 𝘿𝙀𝙋𝙇𝙊𝙔
-<p align="left"><a href="https://repl.it/github/MANNO-GDS/THE-MANNO-MD"> <img src="https://img.shields.io/badge/Deploy%20To%20Replit-gray?style=for-the-badge&logo=replit" height="25"/></a></p>
+<p align="left"><a href="https://repl.it/github/SHANI-GDS/SHANI-MD"> <img src="https://img.shields.io/badge/Deploy%20To%20Replit-gray?style=for-the-badge&logo=replit" height="25"/></a></p>
 
 
 
  ### 𝙆𝙊𝙔𝙀𝘽 𝘿𝙀𝙋𝙇𝙊𝙔 
-  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FMANNO-GDS%2FTHE-MANNO-MD&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
+  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FSHANI-GDS%2FSHANI-MD&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
 
 
  
 ### 𝙍𝙀𝙉𝘿𝙀𝙍 𝘿𝙀𝙋𝙇𝙊𝙔 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FMANNO-GDS%2FTHE-MANNO-MD) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FSHANI-GDS%2FSHANI-MD) 
 
 
 
@@ -79,7 +79,7 @@
 ### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/MANNO-GDS/THE-MANNO-MD/blob/main/LICENSE)
 
  
-### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 ˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`]
+### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`]
 #### 🌐 Arabic = ar 
 #### 🌐 Urdu = ur
 #### 🌐 English Global = en
@@ -88,7 +88,7 @@
 #### 🌐 Spanish = es
 
 
-### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊 ]
+### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 ]
 
 | <a href="https://github.com/MANNO-GDS/THE-MANNO-MD"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=110 height=110></a>
 |-----|
