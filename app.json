@@ -1,15 +1,15 @@
 {
-  "name": "SHANI-MD",
-  "description": "SHANI-MD A SUPER WHATSAPP USER BOT",
+  "name": "PRINXE-MD",
+  "description": "PRINXE-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/SHANI-GDS/SHANI-MD",
+  "repository": "https://github.com/PRINCE-GDS/PRINXE-MD",
   
   "stack": "container",
   "env": {
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923455116994;˻𝗦𝝜𝗔𝗡𝗜-𝟗𝟗𝟒˼"
+      "value": "923092668108;Prince"
       },
      "MODE": {
       "description": "mode public or private",
@@ -39,7 +39,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "♥️ 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗 ♥️"
+      "value": "🔮𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🔮"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -49,7 +49,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "💌--------------------SHANI-MD----------------------💌"
+      "value": "💌--------------------ᴘʀɪɴᴄᴇ-ᴍᴅ----------------------💌"
       },
     "ANTICALL_MSG": {
       "description": "Put your message here for anticall feature",
