@@ -134,7 +134,7 @@ global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
 global.Princesc = 'https://github.com/SHANI-GDS/SHANI-MD' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/Mbnk3am.jpeg'
-global.thumb = fs.readFileSync('./Assets/menus/Menu.png')
+global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
 
