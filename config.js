@@ -126,8 +126,8 @@ global.developer = 'https://wa.me/message/923455116994' //contact
 //Sticker WM
 global.botname = process.env.BOT_NAME
 global.princebot = '「♥️ 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗♥️」'
-global.packname = '「𝗦𝝜𝗔𝗡𝗜-𝗠𝗗♥️」' 
-global.author = '「𝗦𝝜𝗔𝗡𝗜-𝗠𝗗♥️」' 
+global.packname = 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑' 
+global.author = '.' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
