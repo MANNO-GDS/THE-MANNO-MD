@@ -76,7 +76,7 @@
        
 
 
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/MANNO-GDS/THE-MANNO-MD/blob/main/LICENSE)
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/SHANI-GDS/SHANI-MD/blob/main/LICENSE)
 
  
 ### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`]
@@ -88,9 +88,9 @@
 #### 🌐 Spanish = es
 
 
-### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙎𝙃𝘼𝙉𝙄-𝙈𝘿 ]
+### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙎𝙃𝘼𝙉𝙄-𝙈𝘿 
 
-| <a href="https://github.com/SHANI-GDS/SHANI-MD"><img src="https://telegra.ph/file/e8c9a7ad9e4041a596a4d.jpg" width=110 height=110></a>
+| <a href="https://github.com/SHANI-GDS/SHANI-MD"><img src="https://telegra.ph/file/e8c9a7ad9e4041a596a4d.jpg"width=110 height=110></a>
 |-----|
 
 
