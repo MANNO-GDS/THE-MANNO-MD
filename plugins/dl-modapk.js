@@ -102,7 +102,7 @@ let handler = async (m, { conn, command, usedPrefix, text }) => {
                             text: teks
                         }),
                         footer: proto.Message.InteractiveMessage.Footer.create({
-                            text: '♥️𝙎-𝙈𝘿♥️
+                            text: '♥️𝙎-𝙈𝘿♥️', 
                         }),
                         header: proto.Message.InteractiveMessage.Header.create({
                             subtitle: '♥️𝙎-𝙈𝘿♥️',
