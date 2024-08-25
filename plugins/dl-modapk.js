@@ -60,7 +60,7 @@ let handler = async (m, { conn, command, usedPrefix, text }) => {
                             text: "𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗕𝗨𝗧𝗧𝗢𝗡 𝗕𝗘𝗟𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗬𝗢𝗨𝗥 𝗔𝗣𝗞 "
                         }),
                         footer: proto.Message.InteractiveMessage.Footer.create({
-                            text: '♥️𝗦-𝗠𝗗♥️'
+                            text: '♥️𝗦-𝗠𝗗♥️', 
                         }),
                         header: proto.Message.InteractiveMessage.Header.create({
                             subtitle: '♥️𝗦-𝗠𝗗♥️',
