@@ -76,7 +76,7 @@
        
 
 
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/SHANI-GDS/SHANI-MD/blob/main/LICENSE)
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/MANNO-GDS/THE-MANNO-MD/blob/main/LICENSE)
 
  
 ### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗`]
