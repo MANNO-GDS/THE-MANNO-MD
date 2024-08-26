@@ -60,10 +60,10 @@ let handler = async (m, { conn, command, usedPrefix, text }) => {
                             text: "𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗕𝗨𝗧𝗧𝗢𝗡 𝗕𝗘𝗟𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗬𝗢𝗨𝗥 𝗔𝗣𝗞 "
                         }),
                         footer: proto.Message.InteractiveMessage.Footer.create({
-                            text: '♥️𝗦-𝗠𝗗♥️', 
+                            text: '♥𝗦-𝗠𝗗♥'
                         }),
                         header: proto.Message.InteractiveMessage.Header.create({
-                            subtitle: '♥️𝗦-𝗠𝗗♥️',
+                            subtitle: '♥𝗦-𝗠𝗗♥',
                             hasMediaAttachment: false
                         }),
                         nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
@@ -102,10 +102,10 @@ let handler = async (m, { conn, command, usedPrefix, text }) => {
                             text: teks
                         }),
                         footer: proto.Message.InteractiveMessage.Footer.create({
-                            text: '♥️𝙎-𝙈𝘿♥️', 
+                            text: '♥𝗦-𝗠𝗗♥'
                         }),
                         header: proto.Message.InteractiveMessage.Header.create({
-                            subtitle: '♥️𝙎-𝙈𝘿♥️',
+                            subtitle: '♥𝗦-𝗠𝗗♥',
                             hasMediaAttachment: true, ...(await prepareWAMessageMedia({ image: { url: data.icon } }, { upload: conn.waUploadToServer }))
                         }),
                         nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
