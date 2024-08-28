@@ -127,11 +127,6 @@ global.developer = 'https://wa.me/message/923455116994' //contact
 global.botname = process.env.BOT_NAME
 global.princebot = '「♥️ 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗♥️」'
 global.packname = 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑'
-
-             '👀🙈³ı̄ı̄†s ─👅'
-'‹‹᪲• ː✮᚜ု᪳𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⁹⁹⁴ှ᪳᚛✮ː •››᪲'
-
-'🍿🕺⎯⎯→🐼' 
 global.author = '.' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM'
