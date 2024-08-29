@@ -90,7 +90,7 @@
 
 ### 💭[.𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍 𝙏𝙃𝙀-𝙎𝙃𝘼𝙉𝙄-𝙈𝘿]
 
-| <a href="https://github.com/MANNO-GDS/THE-MANNO-MD"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=110 height=110></a><a href="https://github.com/SHANI-GDS/SHANI-MD"><img src="https://i.imgur.com/Mbnk3am.jpeg" width=110 height=110></a>
+| <a href="https://github.com/MANNO-GDS/THE-MANNO-MD"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=200 height=200></a>            <a href="https://github.com/SHANI-GDS/SHANI-MD"><img src="https://i.imgur.com/Mbnk3am.jpeg" width=200 height=200></a>
 |-----|
 
 
