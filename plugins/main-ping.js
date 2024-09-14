@@ -6,11 +6,12 @@ let handler = async (m, { conn }) => {
          exec(`neofetch --stdout`, (error, stdout, stderr) => {
           let child = stdout.toString("utf-8");
           let ssd = child.replace(/Memory:/, "Ram:");
-          m.reply(`*⸙• 「「⸙」‎🌸🖥️*                 
-             
- *${mssg.ping}* : ${latensi.toFixed(4)} 𝙈𝙎
-                 🔐⚠️  
- *♥️ 𝗦𝝜𝗔𝗡𝗜-𝗠𝗗 ♥️*`);
+          m.reply(`*📍 _Loading... [█████████████] 100%_*
+
+           
+ *${mssg.ping}* : ${latensi.toFixed(4)} 𝙎𝙈
+                  🎩🤖
+ *🛡️˻𝗦𝝜𝗔𝗡𝗜-𝗠𝗗-:𝟗͢𝟗𝟒˼🛡️*`);
             });
 }
 handler.help = ['ping']
